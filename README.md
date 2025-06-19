@@ -10,21 +10,30 @@ El proyecto está compuesto por archivos de HTML, CSS y JavaScript que trabajan 
 - JavaScript: Controla la lógica de la calculadora y las acciones del usuario.
 
 
-## Portada
+  
+## Propósito del Proyecto
+Este proyecto es perfecto para adquirir y poner en práctica conocimientos básicos en desarrollo web. Los aspectos abordados incluyen:
+
+- Diseño responsivo usando CSS y media queries.
+- Creación de una interfaz de usuario sencilla pero funcional.
+- Implementación de validaciones y manejo de errores en operaciones aritméticas.
+
+
+### Portada
 
 ![Image](https://github.com/user-attachments/assets/9f74003a-2803-40e8-83fb-b75d52b525b2)
 
-## Visitar el Sitio
+### Visitar el Sitio
 Puedes experimentar con la calculadora en funcionamiento haciendo clic en el siguiente enlace: 
 https://aniek-dev.github.io/Calculadora-Sencilla/
 
 
 
-## 🔗 Enlaces
+### 🔗 Enlaces
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-villarreal-gonzalez/)
 
-## Autores
+### Autores
 
 - [@Aniek-dev](https://github.com/Aniek-dev)
 - [@ramon-coder](https://github.com/ramon-coder)
