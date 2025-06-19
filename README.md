@@ -27,13 +27,20 @@ Este proyecto es perfecto para adquirir y poner en práctica conocimientos bási
 Puedes experimentar con la calculadora en funcionamiento haciendo clic en el siguiente enlace: 
 https://aniek-dev.github.io/Calculadora-Sencilla/
 
+### Cómo Clonar el Repositorio
 
+Puedes obtener una copia del repositorio para revisar el código y realizar tus propias pruebas o modificaciones. Para ello, utiliza el siguiente comando en tu terminal:
+
+https://github.com/Aniek-dev/Calculadora-Sencilla.git
 
 ### 🔗 Enlaces
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-villarreal-gonzalez/)
 
+
 ### Autores
 
 - [@Aniek-dev](https://github.com/Aniek-dev)
 - [@ramon-coder](https://github.com/ramon-coder)
+
+¡Gracias por interesarte en el proyecto! No dudes en contactarme si tienes alguna duda o sugerencia.
