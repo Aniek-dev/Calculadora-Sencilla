@@ -23,6 +23,10 @@ Este proyecto es perfecto para adquirir y poner en práctica conocimientos bási
 
 ![Image](https://github.com/user-attachments/assets/9f74003a-2803-40e8-83fb-b75d52b525b2)
 
+#### Responsive
+
+![Image](https://github.com/user-attachments/assets/8abb2443-4060-4a2b-933c-e16918c02461)
+
 ### Visitar el Sitio
 Puedes experimentar con la calculadora en funcionamiento haciendo clic en el siguiente enlace: 
 
