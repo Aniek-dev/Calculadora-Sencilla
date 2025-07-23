@@ -44,7 +44,7 @@ Puedes obtener una copia del repositorio para revisar el código y realizar tus 
 
 
 ### 🔗 Enlaces
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aniek-dev.github.io/portafolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-villarreal-gonzalez/)
 
 
