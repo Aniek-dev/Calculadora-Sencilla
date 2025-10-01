@@ -43,15 +43,17 @@ Puedes obtener una copia del repositorio para revisar el código y realizar tus 
 
 
 
-### 🔗 Enlaces
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aniek-dev.github.io/portafolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-villarreal-gonzalez/)
-
 
 ### Autores
-
+### Aniek
 - [@Aniek-dev](https://github.com/Aniek-dev)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aniek-dev.github.io/portafolio/)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-villarreal-gonzalez/)
+
+### Ramon-coder
 - [@ramon-coder](https://github.com/ramon-coder)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ramon-coder.github.io/ramon--portfolio/)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ramón-guzmán-043686206)
 
 ¡ ❤️ Gracias por interesarte en el proyecto ❤️ ! No dudes en contactarme si tienes alguna duda o sugerencia .
 
