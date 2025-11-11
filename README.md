@@ -19,15 +19,15 @@ Este proyecto es perfecto para adquirir y poner en práctica conocimientos bási
 - Implementación de validaciones y manejo de errores en operaciones aritméticas.
 
 
-### Portada
+# Portada
 
 ![Image](https://github.com/user-attachments/assets/9f74003a-2803-40e8-83fb-b75d52b525b2)
 
-#### Responsive
+# Responsive
 
 ![Image](https://github.com/user-attachments/assets/8abb2443-4060-4a2b-933c-e16918c02461)
 
-### Visitar el Sitio
+# Visitar el Sitio
 Puedes experimentar con la calculadora en funcionamiento haciendo clic en el siguiente enlace: 
 
 [Abrir Calculadora ](https://aniek-dev.github.io/Calculadora-Sencilla/)
@@ -44,7 +44,7 @@ Puedes obtener una copia del repositorio para revisar el código y realizar tus 
 
 
 
-### Autores
+# Autores
 ### Aniek
 - [@Aniek-dev](https://github.com/Aniek-dev)
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aniek-dev.github.io/portafolio/)
