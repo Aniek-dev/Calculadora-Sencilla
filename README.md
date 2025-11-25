@@ -53,7 +53,7 @@ Puedes obtener una copia del repositorio para revisar el código y realizar tus 
 ### Ramon-coder
 - [@ramon-coder](https://github.com/ramon-coder)
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ramon-coder.github.io/ramon--portfolio/)
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ramón-guzmán-043686206)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/ram%C3%B3n-guzm%C3%A1n-043686206/ )
 
 ¡ ❤️ Gracias por interesarte en el proyecto ❤️ ! No dudes en contactarme si tienes alguna duda o sugerencia .
 
