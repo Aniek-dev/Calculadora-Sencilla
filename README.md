@@ -55,12 +55,18 @@ Puedes obtener una copia del repositorio para revisar el código y realizar tus 
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ramon-coder.github.io/ramon--portfolio/)
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/ram%C3%B3n-guzm%C3%A1n-043686206/ )
 
-¡ ❤️ Gracias por interesarte en el proyecto ❤️ ! No dudes en contactarme si tienes alguna duda o sugerencia .
 
 
 
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14214e2d-0261-40d6-9085-c914c012fae9" width="50" height="45" alt="Corazón izquierdo">
+  &nbsp;&nbsp;
+  <span style="vertical-align: middle;">¡ Gracias por interesarte en el proyecto ! No dudes en contactarme si tienes alguna duda o sugerencia .
+</span>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/14214e2d-0261-40d6-9085-c914c012fae9" width="50" height="45" alt="Corazón derecho">
+</p>
 
     
 
